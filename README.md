@@ -78,11 +78,11 @@ List<Contact> contacts = mainQuery.find();
 
 ## Installation
 
-Published to JCenter
+Published to MavenCentral
 
 ```java
 
- compile 'com.github.tamir7.contacts:contacts:1.1.7'
+ compile 'com.github.brunogalv.contacts:contacts:1.0.0'
 ```
 
 ## License
