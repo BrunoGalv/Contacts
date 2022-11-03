@@ -1,0 +1,17 @@
+com\github\tamir7\contacts\Contact$InternalField.class
+com\github\tamir7\contacts\CursorHelper.class
+com\github\tamir7\contacts\Address$Type.class
+com\github\tamir7\contacts\PhoneNumber$Type.class
+com\github\tamir7\contacts\Event$Type.class
+com\github\tamir7\contacts\Address.class
+com\github\tamir7\contacts\Contact.class
+com\github\tamir7\contacts\Where.class
+com\github\tamir7\contacts\PhoneNumber.class
+com\github\tamir7\contacts\Contact$AbstractField.class
+com\github\tamir7\contacts\Where$Operator.class
+com\github\tamir7\contacts\Query.class
+com\github\tamir7\contacts\Contact$Field.class
+com\github\tamir7\contacts\Contacts.class
+com\github\tamir7\contacts\Email$Type.class
+com\github\tamir7\contacts\Event.class
+com\github\tamir7\contacts\Email.class
